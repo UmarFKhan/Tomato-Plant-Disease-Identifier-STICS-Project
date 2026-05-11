@@ -1,4 +1,4 @@
-#Trained by Obaid Shah 9321
+#Trained by Zain Ali 9612
 import os
 import sys
 import glob
