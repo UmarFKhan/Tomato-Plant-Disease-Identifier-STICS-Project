@@ -1,0 +1,13 @@
+{
+  "class_names": [
+    "tomato_bacterial_spot",
+    "tomato_early_blight",
+    "tomato_healthy_leaf",
+    "tomato_late_blight"
+  ],
+  "num_classes": 4,
+  "img_size": [
+    224,
+    224
+  ]
+}
